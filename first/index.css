@@ -1,0 +1,39 @@
+.header {
+  background-color: gray;
+  width: 100%;
+  height: 120px;
+}
+
+.main {
+  width: 100%;
+}
+
+.float {
+  float: left;
+}
+
+.left {
+  width: 20%;
+  height: 800px;
+  background-color: silver;
+}
+
+.center {
+  width: 60%;
+  height: 800px;
+  background-color: whitesmoke;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0px;
+  height: 80px;
+  width: 60%;
+  background-color: gray;
+}
+
+.right {
+  width: 20%;
+  height: 800px;
+  background-color: silver;
+}
